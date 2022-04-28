@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/xiani/Desktop/flutter_project/anaemot/android/app/.cxx/cmake/release/armeabi-v7a'
+ninja: no work to do.
